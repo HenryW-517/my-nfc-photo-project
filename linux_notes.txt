@@ -1,0 +1,5 @@
+ls-l #查看文件详细信息
+cd /   # 切换到根目录
+pwd    # 显示当前工作路径
+sudo dnf install -y  # RHEL/CentOS安装软件
+nmcli connection up  # 激活网络连接
